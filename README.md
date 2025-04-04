@@ -1,2 +1,2 @@
 # MetaTrader5
-Includes, Indicators for Metatrader 5 
+Includes, Indicators, template, profile etc for Metatrader 5 
